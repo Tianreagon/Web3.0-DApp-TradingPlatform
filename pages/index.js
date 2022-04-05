@@ -58,7 +58,7 @@ export default function Home() {
               <div className={styles.noticeMessage}>
                 Transfer your funds here.
               </div>
-              {/* <Buy Tokens/> */}
+              {<BuyTokens />}
             </div>
           </div>
           {/* <Notice /> */}
